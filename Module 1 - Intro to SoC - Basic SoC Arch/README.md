@@ -1,1 +1,7 @@
-# SoC_Course_Tutorials
+# Module 1
+
+To access the videos associated with these pdfs please request access to the following files:
+
+[Module 1 PowerPoint](https://uflorida-my.sharepoint.com/:v:/g/personal/butkaa_ufl_edu/EZqOx1NAsUtLt9Trhoa3RsgBkFaZnaXRCwdqF8HdNbncCg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=slcRvY)
+
+[Module 1 Lab Walkthrough](https://uflorida-my.sharepoint.com/:v:/g/personal/butkaa_ufl_edu/Ec0I8r0cN_xNtqoQMGCRlEQBCJOS4wTQZQK9Tf0QgtRCiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g2Uab5)
