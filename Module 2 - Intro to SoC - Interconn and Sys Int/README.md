@@ -1,1 +1,5 @@
-# SoC_Course_Tutorials
+# Module 2
+
+[Module 2 PowerPoint](https://uflorida-my.sharepoint.com/:v:/g/personal/butkaa_ufl_edu/ER6pv3kc03JHqBx5Y1vuDhYBFKEb-F2RYmhQlqHZF-pstQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=v4PgyQ)
+
+[Module 2 Lab Walkthrough](https://uflorida-my.sharepoint.com/:v:/g/personal/butkaa_ufl_edu/EafWAMJc75NGpjGCIl78ceUBiZpj8G1x0h7FPCdtrVJ3DA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mqeeLn)
